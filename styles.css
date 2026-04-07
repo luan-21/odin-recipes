@@ -1,0 +1,37 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(165, 173, 180);
+    font-family: Trebuchet MS, Tahoma, Verdana;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1, h2 {
+    text-align: center;
+    padding: 10px;
+    color: rgb(81, 84, 85);
+}
+
+li{
+    list-style-type: none;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(218, 228, 231);
+    width: 800px;
+}
+
+a{ 
+    color: rgb(81, 84, 85);
+}
