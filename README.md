@@ -45,9 +45,30 @@ What I Learned
 Project Structure.
 
 odin-recipes/
-│── index.html
-│── recipes/
-│ ├── apricot-jam.html
-│ ├── 3-ingredient-peanut-butter-cookies.html 
-│ └── danish-dream-cake.html 
-│── images/
+index.html
+    recipes/
+        apricot-jam.html
+        3-ingredient-peanut-butter-cookies.html 
+        danish-dream-cake.html 
+     images/
+     css/
+        styles.css
+
+Updates / Improvements
+
+- Added a CSS file for styling.
+- Applied the CSS box model:
+    - margins
+    - padding
+    - border-box
+- Added custom colors and fonts.
+- Improved layout and spacing across pages.
+- Organized content using <div> containers.
+- Updated project structure to include a CSS folder.
+
+Additional Learning
+
+- How to use the CSS box model (margin, padding, border).
+- How to style pages with colors and fonts.
+- How to improve layout using CSS.
+- How to structure content using <div> elements.
